@@ -1,2 +1,2 @@
-# forma-o-java-developer-dio
+# Formação JAVA Developer Dio
 Repositório com meu material de estudo acerca da linguagem JAVA.
